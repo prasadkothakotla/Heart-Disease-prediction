@@ -6,6 +6,12 @@ The application allows users to enter relevant health parameters and receive a m
 
 ---
 
+## 🖥️ Application Screenshot
+
+![Heart Disease Prediction Application](https://github.com/prasadkothakotla/Heart-Disease-prediction/blob/main/heart-disease-app.png)
+
+---
+
 ## 🚀 Features
 
 * ❤️ Heart disease prediction using Machine Learning
